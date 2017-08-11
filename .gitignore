@@ -1,0 +1,14 @@
+packrat/lib*/
+*.csv
+*.jpeg
+.Rhistory
+.Rprofile
+.Rdata
+*.Rproj
+*.opts
+*.lock
+*.Rda
+.Rproj.user/
+packrat/src/
+packrat/lib*/
+packrat/
